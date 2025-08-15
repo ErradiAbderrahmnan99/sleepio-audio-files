@@ -1,32 +1,22 @@
-[
-  {
-    "id": "track1",
-    "title": "Deep Sleep Meditation",
-    "description": "Calming meditation to help you sleep deeply",
-    "category": "Sleep",
-    "duration": 600,
-    "filePath": "https://github.com/ErradiAbderrahmnan99/sleepio-audio-files/raw/main/cinematic-hip-hop-vlog-music-349853.mp3",
-    "coverImagePath": "assets/images/meditation.jpg",
-    "isFavorite": false
-  },
-  {
-    "id": "track2",
-    "title": "Morning Relaxation",
-    "description": "Soothing sounds for morning meditation",
-    "category": "Meditation",
-    "duration": 480,
-    "filePath": "https://github.com/ErradiAbderrahmnan99/sleepio-audio-files/raw/main/tell-me-what-379638.mp3",
-    "coverImagePath": "assets/images/ocean.jpg",
-    "isFavorite": false
-  },
-  {
-    "id": "track3",
-    "title": "Focus Music",
-    "description": "Background music to help you concentrate",
-    "category": "Focus",
-    "duration": 720,
-    "filePath": "https://github.com/ErradiAbderrahmnan99/sleepio-audio-files/raw/main/cinematic-hip-hop-vlog-music-349853.mp3",
-    "coverImagePath": "assets/images/focus.jpg",
-    "isFavorite": false
-  }
-]
+{
+  "audio_tracks": [
+    {
+      "id": "track1",
+      "title": "Deep Sleep Meditation",
+      "category": "Sleep",
+      "audioUrl": "https://github.com/ErradiAbderrahmnan99/sleepio-audio-files/raw/refs/heads/main/audio/cinematic-hip-hop-vlog-music-349853.mp3",
+      "imageUrl": "https://github.com/ErradiAbderrahmnan99/sleepio-audio-files/raw/refs/heads/main/images/sleep_meditation.jpg",
+      "durationSec": 600,
+      "isFavorite": false
+    },
+    {
+      "id": "track2",
+      "title": "Morning Relaxation",
+      "category": "Meditation",
+      "audioUrl": "https://github.com/ErradiAbderrahmnan99/sleepio-audio-files/raw/refs/heads/main/audio/tell-me-what-379638.mp3",
+      "imageUrl": "https://github.com/ErradiAbderrahmnan99/sleepio-audio-files/raw/refs/heads/main/images/morning_relaxation.jpg",
+      "durationSec": 480,
+      "isFavorite": false
+    }
+  ]
+}
